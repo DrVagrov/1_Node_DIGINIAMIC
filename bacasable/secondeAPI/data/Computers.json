@@ -1,0 +1,27 @@
+[
+  {
+    "id": 2,
+    "name": "Laptopp",
+    "tailleRam": "8GB"
+  },
+  {
+    "id": 3,
+    "name": "Server",
+    "tailleRam": "32GB"
+  },
+  {
+    "id": 4,
+    "name": "New pc",
+    "tailleRam": "5gb"
+  },
+  {
+    "id": 5,
+    "name": "New pc",
+    "tailleRam": "5gb"
+  },
+  {
+    "id": 6,
+    "name": "New pc",
+    "tailleRam": "5gb"
+  }
+]
