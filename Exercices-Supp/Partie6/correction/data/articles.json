@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction à Node.js",
+    "author": "John Doe"
+  },
+  {
+    "id": 2,
+    "title": "Les bases du HTTP",
+    "author": "Jane Smith"
+  },
+  {
+    "id": 3,
+    "title": "Créer une API REST",
+    "author": "Bob Johnson"
+  }
+]
+
